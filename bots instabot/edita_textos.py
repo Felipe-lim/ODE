@@ -1,4 +1,4 @@
-coisas = ['oi','aff','que saco', 'nao aguento mais']
+coisas = ['oi','Bom dia','que dia lindo', 'muita paz']
 
 
 #epilef = set(felipe.read())
