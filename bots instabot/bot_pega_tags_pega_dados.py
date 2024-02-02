@@ -7,7 +7,7 @@ bot = Bot()
 
 
 #fazer login
-bot.login(username="extensao@cear.ufpb.br", password="ode2020")
+bot.login(username="username", password="password")
 
 #definindo as tags
 tags = ["extensaoufpb", "proexufpb", "ufpb","probex2021", "editaisdaextensao"]
