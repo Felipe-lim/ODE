@@ -1,5 +1,5 @@
 # ODE
-# Observatório de Dados da Extensão - Início do projeto
+## Observatório de Dados da Extensão - Início do projeto
 
 Este repositório tem o propósito de documentar o começo do trabalho que eu desenvolvi dentro do ODE.
 
