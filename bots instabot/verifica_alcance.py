@@ -13,7 +13,7 @@ ext_users = ['users']
 ext_ids = []
 data = ['1', '2', '3']
 #fazer login
-bot.login(username="fionagatos", password="pitocofiona3")
+bot.login(username="usename", password="password")
 
 
 #funcao de espera
