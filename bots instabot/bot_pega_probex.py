@@ -6,7 +6,7 @@ import shutil
 
 #fazer login
 #bot.login(username="auroragatabranca@gmail.com", password="pitocofiona")
-bot.login(username="fionagatos", password="pitocofiona3")
+bot.login(username="username", password="password")
 
 print("ok")
 
