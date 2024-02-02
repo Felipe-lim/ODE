@@ -12,7 +12,7 @@ ext_ids = []
 
 
 #fazer login
-bot.login(username="fionagatos", password="pitocofiona3")
+bot.login(username="username", password="password")
 
 #preenchendo a lista de ids
 n=0
